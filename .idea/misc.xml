@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/drawable-v24/bottom_navbar_cari_selector.xml" value="0.37948717948717947" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/drawable/bottom_navbar_akun_selector.xml" value="0.37948717948717947" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/drawable/ic_error.xml" value="0.37948717948717947" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/drawable/ic_loading.xml" value="0.37948717948717947" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/drawable/iconsedih.xml" value="0.37948717948717947" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/activity_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/activity_onboarding.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/activity_splash_screen.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_edit_pin.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_edit_profile.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_forgot_password.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_login.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_profile.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_register.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_search.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/fragment_tentang_pamsimas.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/item_progress_dialog.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/layout/item_rv_kegiatan_pamsimas.xml" value="0.2957427536231884" />
+        <entry key="..\:/Project Android/PamsimasApps/app/src/main/res/menu/bottom_navigation.xml" value="0.3692708333333333" />
+        <entry key="app/src/main/res/drawable/bg_border_bold.xml" value="0.156" />
+        <entry key="app/src/main/res/drawable/bg_btn_primary.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/bg_btn_white_outline_blue.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/bg_btn_white_outline_grey.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/bg_filter.xml" value="0.1385" />
+        <entry key="app/src/main/res/drawable/bg_input_view.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/bg_item_rv_iuran.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/bg_landing.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/bg_linear_empty.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/bg_shadow.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_table_body.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/bg_table_body_first.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/bg_table_body_last.xml" value="0.118" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.23731884057971014" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/activity_pelanggan.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.23731884057971014" />
+        <entry key="app/src/main/res/layout/fragment_aset_pamsimas.xml" value="0.22509613037109377" />
+        <entry key="app/src/main/res/layout/fragment_bayar_iuran.xml" value="0.2876368204752604" />
+        <entry key="app/src/main/res/layout/fragment_content_daftar_pelanggan.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_daftar_pelanggan.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/fragment_detail_iuran.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_detail_kegiatan_pamsimas.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/fragment_detail_pelanggan.xml" value="0.2592069764068161" />
+        <entry key="app/src/main/res/layout/fragment_dialog_filter_pelanggan.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_edit_pelanggan.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment_edit_pin.xml" value="0.224267584410741" />
+        <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.21393470681556992" />
+        <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14503326416015633" />
+        <entry key="app/src/main/res/layout/fragment_input_meteran_one.xml" value="0.22230464821994894" />
+        <entry key="app/src/main/res/layout/fragment_input_meteran_otp.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_input_meteran_two.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_iuran_bulanan.xml" value="0.22823760120581232" />
+        <entry key="app/src/main/res/layout/fragment_kegiatan_pamsimas.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_laporan_keuangan.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment_latar_belakang_pamsimas.xml" value="0.19322644662165986" />
+        <entry key="app/src/main/res/layout/fragment_list_search.xml" value="0.11395335950349506" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1620322778916113" />
+        <entry key="app/src/main/res/layout/fragment_profile_pamsimas.xml" value="0.19905072640681615" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/fragment_register_one.xml" value="0.20018115942028986" />
+        <entry key="app/src/main/res/layout/fragment_register_two.xml" value="0.2362533445423427" />
+        <entry key="app/src/main/res/layout/fragment_ringkasan_iuran.xml" value="0.2962780938632247" />
+        <entry key="app/src/main/res/layout/fragment_ringkasan_laporan_keuangan.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment_riwayat_iuran.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.22493566982987992" />
+        <entry key="app/src/main/res/layout/fragment_tambah_kegiatan_pamsimas.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/fragment_tambah_kegiatan_pamsimas_one.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_tambah_laporan_keuangan.xml" value="0.22355012755463088" />
+        <entry key="app/src/main/res/layout/fragment_tambah_pelanggan.xml" value="0.280593628814255" />
+        <entry key="app/src/main/res/layout/fragment_tambah_pelanggan_one.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/fragment_tambah_pelanggan_otp.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/fragment_tambah_pelanggan_two.xml" value="0.2128623188405797" />
+        <entry key="app/src/main/res/layout/fragment_tentang_pamsimas.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_verification.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/item_dialog_hapus_pelanggan.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/item_dialog_konfirmasi_bayar_iuran.xml" value="0.28529689622961957" />
+        <entry key="app/src/main/res/layout/item_dialog_login_failed.xml" value="0.20471014492753623" />
+        <entry key="app/src/main/res/layout/item_progress_dialog.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/item_rv_daftar_pelanggan.xml" value="0.18297101449275363" />
+        <entry key="app/src/main/res/layout/item_rv_iuran.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout/item_rv_kegiatan_pamsimas.xml" value="0.22058105468750003" />
+        <entry key="app/src/main/res/layout/item_rv_laporan_keuangan.xml" value="0.3335232720858809" />
+        <entry key="app/src/main/res/layout/item_rv_ringkasan_laporan.xml" value="0.23272560521175983" />
+        <entry key="app/src/main/res/layout/item_rv_riwayat_pemakaian.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.2953125" />
+        <entry key="app/src/main/res/menu/menu_option.xml" value="0.2953125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
