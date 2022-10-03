@@ -12,11 +12,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/selamat_datang"
-        android:textSize="20sp"
+        android:textSize="18sp"
         android:textColor="@color/hitam"
         android:fontFamily="@font/poppins_bold"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="12dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -24,8 +24,8 @@
         android:id="@+id/tv_username"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Beban temen"
-        android:textSize="16sp"
+        tools:text="Beban temen"
+        android:textSize="14sp"
         android:textColor="@color/abu"
         android:fontFamily="@font/poppins_semibold"
         android:layout_marginStart="16dp"
@@ -38,7 +38,7 @@
         style="@style/Responnsive16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="16dp"
         android:orientation="horizontal"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
@@ -53,7 +53,7 @@
             android:gravity="center_vertical"
             android:orientation="vertical"
             android:paddingVertical="12dp"
-            android:paddingStart="12dp">
+            android:paddingStart="10dp">
 
             <TextView
                 android:id="@+id/tv_pelanggan_aktif"
@@ -71,7 +71,7 @@
                 android:fontFamily="@font/poppins_medium"
                 android:text="@string/pelanggan_aktif"
                 android:textColor="@color/grey_2"
-                android:textSize="14sp" />
+                android:textSize="12sp" />
 
         </LinearLayout>
 
@@ -84,7 +84,7 @@
             android:gravity="center_vertical"
             android:orientation="vertical"
             android:paddingVertical="12dp"
-            android:paddingStart="12dp">
+            android:paddingStart="10dp">
 
             <TextView
                 android:id="@+id/tv_belum_dibayar"
@@ -102,7 +102,7 @@
                 android:fontFamily="@font/poppins_medium"
                 android:text="@string/belum_dibayar"
                 android:textColor="@color/grey_2"
-                android:textSize="14sp" />
+                android:textSize="12sp" />
 
         </LinearLayout>
 
@@ -135,8 +135,8 @@
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:layout_width="82dp"
-                    android:layout_height="82dp"
+                    android:layout_width="76dp"
+                    android:layout_height="76dp"
                     android:background="@drawable/bg_oval"
                     android:gravity="center">
 
@@ -155,7 +155,7 @@
                     android:gravity="center"
                     android:text="@string/input_nmeteran"
                     android:textColor="@color/hitam"
-                    android:textSize="14sp" />
+                    android:textSize="12sp" />
 
             </LinearLayout>
 
@@ -176,8 +176,8 @@
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:layout_width="82dp"
-                    android:layout_height="82dp"
+                    android:layout_width="76dp"
+                    android:layout_height="76dp"
                     android:background="@drawable/bg_oval"
                     android:gravity="center">
 
@@ -196,7 +196,7 @@
                     android:gravity="center"
                     android:text="@string/bayar_niuran"
                     android:textColor="@color/hitam"
-                    android:textSize="14sp" />
+                    android:textSize="12sp" />
 
             </LinearLayout>
 
@@ -217,8 +217,8 @@
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:layout_width="82dp"
-                    android:layout_height="82dp"
+                    android:layout_width="76dp"
+                    android:layout_height="76dp"
                     android:background="@drawable/bg_oval"
                     android:gravity="center">
 
@@ -237,7 +237,7 @@
                     android:gravity="center"
                     android:text="@string/laporan_nkeuangan"
                     android:textColor="@color/hitam"
-                    android:textSize="14sp" />
+                    android:textSize="12sp" />
 
             </LinearLayout>
 
@@ -258,8 +258,8 @@
                 android:orientation="vertical">
 
                 <LinearLayout
-                    android:layout_width="82dp"
-                    android:layout_height="82dp"
+                    android:layout_width="76dp"
+                    android:layout_height="76dp"
                     android:background="@drawable/bg_oval"
                     android:gravity="center">
 
@@ -278,7 +278,7 @@
                     android:gravity="center"
                     android:text="@string/tentang_npamsimas"
                     android:textColor="@color/hitam"
-                    android:textSize="14sp" />
+                    android:textSize="12sp" />
 
             </LinearLayout>
 
@@ -295,7 +295,7 @@
         android:fontFamily="@font/poppins_semibold"
         android:text="@string/kegiatan_pamsimas"
         android:textColor="@color/hitam"
-        android:textSize="18sp"
+        android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />
 
@@ -304,7 +304,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/lihat_semua"
-        android:textSize="14sp"
+        android:textSize="12sp"
         android:textColor="@color/hitam"
         android:layout_marginEnd="16dp"
         app:layout_constraintEnd_toEndOf="parent"

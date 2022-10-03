@@ -112,8 +112,8 @@ class TambahLaporanKeuanganFragment : Fragment() {
                         var input: String = s.toString()
                         if (input.isNotEmpty()) {
                             input = input.replace(",", "")
-                            val format = DecimalFormat("#,###,###")
-                            val newPrice: String = format.format(input.toDouble())
+                            val formatDouble = DecimalFormat("#,###,###,###,###")
+                            val newPrice: String = formatDouble.format(input.toDouble())
                             etNominal.removeTextChangedListener(this) //To Prevent from Infinite Loop
                             etNominal.setText(newPrice)
                             etNominal.setSelection(newPrice.length) //Move Cursor to end of String

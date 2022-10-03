@@ -37,6 +37,16 @@
         <entry key="app/src/main/res/drawable/bg_table_body.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/bg_table_body_first.xml" value="0.118" />
         <entry key="app/src/main/res/drawable/bg_table_body_last.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/ic_error.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_failed.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_loading.xml" value="0.1535" />
+        <entry key="app/src/main/res/drawable/ic_refresh.xml" value="0.1535" />
+        <entry key="app/src/main/res/layout-480x480/fragment_home.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout-hdpi/fragment_home.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout-small/fragment_home.xml" value="0.7960526315789473" />
+        <entry key="app/src/main/res/layout-sw320dp/fragment_home.xml" value="0.21920289855072464" />
+        <entry key="app/src/main/res/layout-sw480dp/fragment_home.xml" value="0.2936893203883495" />
+        <entry key="app/src/main/res/layout-xxhdpi/fragment_home.xml" value="0.21920289855072464" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.23731884057971014" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
         <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.20471014492753623" />
@@ -54,7 +64,7 @@
         <entry key="app/src/main/res/layout/fragment_edit_pin.xml" value="0.224267584410741" />
         <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.21393470681556992" />
         <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.18297101449275363" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.14503326416015633" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.18273162841796883" />
         <entry key="app/src/main/res/layout/fragment_input_meteran_one.xml" value="0.22230464821994894" />
         <entry key="app/src/main/res/layout/fragment_input_meteran_otp.xml" value="0.18297101449275363" />
         <entry key="app/src/main/res/layout/fragment_input_meteran_two.xml" value="0.18297101449275363" />

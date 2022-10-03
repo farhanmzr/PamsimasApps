@@ -118,14 +118,15 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/poppins_bold"
             android:inputType="number"
+            android:hint="10.000"
+            android:text="500.000"
             android:imeOptions="actionDone"
             android:clickable="true"
-            android:maxLength="10"
             android:focusableInTouchMode="true"
             android:paddingStart="4dp"
             android:paddingEnd="8dp"
             android:textColor="@color/hitam"
-            android:textColorHint="@color/hitam"
+            android:textColorHint="@color/border"
             android:textColorLink="@color/hitam"
             android:textSize="20sp" />
 

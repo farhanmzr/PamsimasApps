@@ -199,7 +199,6 @@
             android:focusableInTouchMode="true"
             android:clickable="true"
             android:maxLines="1"
-            android:maxLength="10"
             android:paddingHorizontal="24dp"
             android:textColor="@color/abu"
             android:textColorHint="@color/abu"

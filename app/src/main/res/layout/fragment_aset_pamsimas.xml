@@ -70,6 +70,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Papan Nama"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -79,6 +80,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -88,6 +90,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="1 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -102,6 +105,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Stempel"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -111,6 +115,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -120,6 +125,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="1 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -134,6 +140,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Papan Peta"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -143,6 +150,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -152,6 +160,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="1 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -166,6 +175,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Tower"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -175,6 +185,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -184,6 +195,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="2 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -198,6 +210,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Sumur"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -207,6 +220,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="2 Baik, 2 Buruk"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -216,6 +230,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="4 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -230,6 +245,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Pompa"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -239,6 +255,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="2 Baik, 4 Buruk"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -248,6 +265,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="6 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -262,6 +280,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Jaringan Tranmisi"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -271,6 +290,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -280,6 +300,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="1025 M"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -294,6 +315,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Jaringan Distribusi"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -303,6 +325,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -312,6 +335,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="4229 M"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -326,6 +350,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Sambungan PLN"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -335,6 +360,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -344,6 +370,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="900Kwh\n3500Kwh"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -358,6 +385,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Sambungan Rumah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -367,6 +395,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -376,6 +405,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="135 SR"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -390,6 +420,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Peralatan Teknik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -399,6 +430,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -408,6 +440,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="1 Set"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 
@@ -422,6 +455,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Kran Umum"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -431,6 +465,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="Baik"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
 
                     <TextView
@@ -440,6 +475,7 @@
                         android:fontFamily="@font/poppins_medium"
                         android:gravity="center"
                         android:text="3 Buah"
+                        android:textSize="12sp"
                         android:textColor="@color/hitam" />
                 </TableRow>
 

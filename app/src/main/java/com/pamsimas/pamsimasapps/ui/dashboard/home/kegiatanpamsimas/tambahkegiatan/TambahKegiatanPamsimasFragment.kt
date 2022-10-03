@@ -48,7 +48,7 @@ class TambahKegiatanPamsimasFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
+        kegiatanData = Kegiatan()
         progressDialog = ProgressDialogHelper.progressDialog(requireContext())
         datePicker = DatePickerHelper(requireContext())
 
@@ -106,6 +106,15 @@ class TambahKegiatanPamsimasFragment : Fragment() {
 
     private fun uploadImageData() {
 
+        progressDialog.show()
+
+        kegiatanData = Kegiatan(
+            kegiatanPicture = kegiatanData.kegiatanPicture,
+            kegiatanName = binding.etNamaKegiatan.text.toString(),
+            kegiatanDate = binding.etDateKegiatan.text.toString(),
+            kegiatanDesc = binding.etDescKegiatan.text.toString()
+        )
+
         mainViewModel.uploadImages(
             uriImagePath!!,
             "${kegiatanData.kegiatanName}",
@@ -115,7 +124,7 @@ class TambahKegiatanPamsimasFragment : Fragment() {
             if (downloadUrl != null) {
                 Toast.makeText(requireContext(), "Upload image success", Toast.LENGTH_SHORT).show()
                 kegiatanData.kegiatanPicture = downloadUrl.toString()
-                uploadKegiatan()
+                uploadKegiatanData(kegiatanData)
             } else {
                 progressDialog.dismiss()
                 Toast.makeText(
@@ -125,16 +134,6 @@ class TambahKegiatanPamsimasFragment : Fragment() {
                 ).show()
             }
         }
-    }
-
-    private fun uploadKegiatan() {
-        kegiatanData = Kegiatan(
-            kegiatanPicture = kegiatanData.kegiatanPicture,
-            kegiatanName = binding.etNamaKegiatan.text.toString(),
-            kegiatanDate = binding.etDateKegiatan.text.toString(),
-            kegiatanDesc = binding.etDescKegiatan.text.toString()
-        )
-        uploadKegiatanData(kegiatanData)
     }
 
     private fun uploadKegiatanData(kegiatanData: Kegiatan) {
@@ -149,6 +148,7 @@ class TambahKegiatanPamsimasFragment : Fragment() {
                     Toast.LENGTH_SHORT
                 ).show()
             } else {
+                progressDialog.dismiss()
                 Toast.makeText(requireContext(), status, Toast.LENGTH_SHORT).show()
             }
         }
@@ -177,7 +177,7 @@ class TambahKegiatanPamsimasFragment : Fragment() {
                 false
             }
             kegiatanDesc.length < 10 -> {
-                binding.etDescKegiatan.error = "Minimal Deskripsi Kegiatan adalah 5 huruf."
+                binding.etDescKegiatan.error = "Minimal Deskripsi Kegiatan adalah 10 huruf."
                 false
             }
             else -> {
